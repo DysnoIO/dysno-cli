@@ -1,0 +1,7 @@
+build/
+keystore/
+*.txt
+*.yml
+*.yaml
+*.sol
+.env
